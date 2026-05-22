@@ -1,0 +1,22 @@
+anycodings.com###myblock > div.row.no-gutters.inner
+anycodings.com###myblock
+nettruyenus.com###ctl00_divCenter > div.reading > div.container.text-center.mrb5:nth-child(2) > div.mrt5.mrb5.text-center.col-sm-6:first-child > a > img
+makeuseof.com##div:nth-child(11)
+getimg.ai###__next > div.ai-editor_mobile__gHuDK:nth-child(3)
+xamvn.app##div.float-ck-center-lt:nth-child(12)
+xamvn.app###top > div.p-body:nth-child(5) > div.p-body-inner > ul.notices.notices--block.js-notices:first-child > li.notice.js-notice.notice--primary > div.notice-content
+nettruyenmanga.com###ctl00_divCenter > div.reading:first-child > div.row.banners-all.text-center.my_banner:nth-child(3)
+emoji.gg###yousmell
+rou.video###radix-«R2l6»
+rou.video##div:nth-child(36) > div > a:first-child > img
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900:last-child > div.w-full > div.mx-auto:last-child > div > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.md\:grid-cols-4.gap-12.px-2:first-child > div.md\:col-span-3:first-child > div.flex.justify-center.my-3:nth-child(2) > div.place-self-center > a > img
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900:last-child > div.w-full > div.mx-auto:last-child > div > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.lg\:grid-cols-3.gap-2:first-child > div.md\:col-span-2:first-child > div.flex.items-center.justify-center:first-child > div.place-self-center
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900:last-child > div.w-full > div.mx-auto:last-child > div > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.lg\:grid-cols-3.gap-2:first-child > div.md\:col-span-2:first-child > div.grid.grid-cols-2.lg\:grid-cols-4.gap-4.lg\:gap-8.mt-2.mb-6:last-child
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900:last-child > div.w-full > div.mx-auto:last-child > div > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.lg\:grid-cols-3.gap-2:first-child > div.md\:col-span-1.px-3:last-child > div.flex.justify-center:nth-child(6)
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900:last-child > div.w-full > div.mx-auto:last-child > div > div.max-w-screen-2xl.mx-auto.px-2.lg\:px-3 > div.grid.grid-cols-1.md\:grid-cols-2.gap-2.my-2.md\:my-4:nth-child(2)
+rou.video###radix-«Rnl6» > a:last-child > img.w-full.h-auto.max-h-\[80vh\].object-contain.rounded-lg
+rou.video##div:last-child > div > a:first-child > img
+nhieutruyen.com##div.relative.mx-auto.min-h-svh.max-w-screen-lg:first-child > div.main-container:nth-child(2) > div.mg\:right-5.fixed.bottom-1\/2.right-1.z-50.w-\[75px\].hover\:\!text-zinc-900.dark\:hover\:\!text-zinc-100.md\:w-\[150px\]:nth-child(3) > a > span.anticon.anticon-close-circle.absolute.right-0.top-\[-10px\].z-10.text-2xl:first-child > svg > path
+metruyenchu.com.vn###flyer
+rphang.boo###top > div.p-body:nth-child(3) > div.p-body-inner > div.samCodeUnit:nth-child(6) > div.samItem
+rphang.boo###footer > div.p-footer-inner
