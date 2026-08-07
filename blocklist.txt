@@ -1,3 +1,8 @@
+! Title: My Block List
+! Description: My block list filter.
+! Version: 0.0.1
+! TimeUpdated: 2026-08-07T18:20:09+00:00
+! ---------- Generic Blocking Rules ----------
 anycodings.com###myblock > div.row.no-gutters.inner
 anycodings.com###myblock
 nettruyenus.com###ctl00_divCenter > div.reading > div.container.text-center.mrb5:nth-child(2) > div.mrt5.mrb5.text-center.col-sm-6:first-child > a > img
