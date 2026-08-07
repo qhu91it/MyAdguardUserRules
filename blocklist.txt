@@ -20,3 +20,5 @@ nhieutruyen.com##div.relative.mx-auto.min-h-svh.max-w-screen-lg:first-child > di
 metruyenchu.com.vn###flyer
 rphang.boo###top > div.p-body:nth-child(3) > div.p-body-inner > div.samCodeUnit:nth-child(6) > div.samItem
 rphang.boo###footer > div.p-footer-inner
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.
