@@ -1,16 +1,17 @@
 ! Title: My Block List
 ! Description: My block list filter.
-! Version: 0.0.1
-! TimeUpdated: 2026-08-07T18:20:11+00:00
+! Version: 0.0.2
+! TimeUpdated: 2026-09-03T18:20:47+00:00
 ! ---------- Generic Blocking Rules ----------
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.
+@@|adblock.turtlecute.org^
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+adblock.turtlecute.org##.textads
 anycodings.com###myblock > div.row.no-gutters.inner
 anycodings.com###myblock
-nettruyenus.com###ctl00_divCenter > div.reading > div.container.text-center.mrb5:nth-child(2) > div.mrt5.mrb5.text-center.col-sm-6:first-child > a > img
 makeuseof.com##div:nth-child(11)
 getimg.ai###__next > div.ai-editor_mobile__gHuDK:nth-child(3)
-xamvn.app##div.float-ck-center-lt:nth-child(12)
-xamvn.app###top > div.p-body:nth-child(5) > div.p-body-inner > ul.notices.notices--block.js-notices:first-child > li.notice.js-notice.notice--primary > div.notice-content
-nettruyenmanga.com###ctl00_divCenter > div.reading:first-child > div.row.banners-all.text-center.my_banner:nth-child(3)
 emoji.gg###yousmell
 rou.video###radix-_R_1ql6_
 rou.video##.my-2
@@ -18,12 +19,9 @@ rou.video##.place-self-center
 rou.video##.border-gray-100
 rou.video###radix-_R_2l6_
 rou.video##div[style="display: flex; justify-content: center; text-align: center; width: 100%; z-index: 1030; pointer-events: none; bottom: 0px; position: fixed;"]
+rou.video###radix-_r_0_
+rou.video##div[style="position:relative;pointer-events:auto;max-height:18vh"]
 nhieutruyen.com##div.relative.mx-auto.min-h-svh.max-w-screen-lg:first-child > div.main-container:nth-child(2) > div.mg\:right-5.fixed.bottom-1\/2.right-1.z-50.w-\[75px\].hover\:\!text-zinc-900.dark\:hover\:\!text-zinc-100.md\:w-\[150px\]:nth-child(3) > a > span.anticon.anticon-close-circle.absolute.right-0.top-\[-10px\].z-10.text-2xl:first-child > svg > path
 metruyenchu.com.vn###flyer
 rphang.boo###top > div.p-body:nth-child(3) > div.p-body-inner > div.samCodeUnit:nth-child(6) > div.samItem
 rphang.boo###footer > div.p-footer-inner
-/pagead.js$domain=adblock.turtlecute.org
-/widget/ads.
-@@|adblock.turtlecute.org^
-adblock.turtlecute.org##.adbox.banner_ads.adsbox
-adblock.turtlecute.org##.textads
