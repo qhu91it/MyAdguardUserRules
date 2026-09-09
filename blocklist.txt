@@ -1,7 +1,7 @@
 ! Title: My Block List
 ! Description: My block list filter.
 ! Version: 0.0.3
-! TimeUpdated: 2026-09-10T01:22:47+00:00
+! TimeUpdated: 2026-09-10T01:32:47+00:00
 ! ---------- Generic Blocking Rules ----------
 /pagead.js$domain=adblock.turtlecute.org
 /widget/ads.
@@ -33,6 +33,7 @@ rou.video##a[href="/api/hop/AWqh8wDczcxjsvMZlNSFno5jKMDuoB5W9c4pgYamaCYyXtFmh5HA
 rou.video##.x3lsb2m
 rou.video##.x3lsb2l
 rou.video##.x9ace6d
+rou.video##.grid-cols-2
 .com##div.relative.mx-auto.min-h-svh.max-w-screen-lg:first-child > div.main-container:nth-child(2) > div.mg\:right-5.fixed.bottom-1\/2.right-1.z-50.w-\[75px\].hover\:\!text-zinc-900.dark\:hover\:\!text-zinc-100.md\:w-\[150px\]:nth-child(3) > a > span.anticon.anticon-close-circle.absolute.right-0.top-\[-10px\].z-10.text-2xl:first-child > svg > path
 metruyenchu.com.vn###flyer
 rphang.boo###top > div.p-body:nth-child(3) > div.p-body-inner > div.samCodeUnit:nth-child(6) > div.samItem
