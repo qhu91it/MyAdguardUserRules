@@ -1,7 +1,7 @@
 ! Title: My Block List
 ! Description: My block list filter.
-! Version: 0.0.3
-! TimeUpdated: 2026-09-10T01:32:47+00:00
+! Version: 0.0.4
+! TimeUpdated: 2026-09-1023:16+00:00
 ! ---------- Generic Blocking Rules ----------
 /pagead.js$domain=adblock.turtlecute.org
 /widget/ads.
@@ -13,28 +13,24 @@ anycodings.com###myblock
 makeuseof.com##div:nth-child(11)
 getimg.ai###__next > div.ai-editor_mobile__gHuDK:nth-child(3)
 emoji.gg###yousmell
-rou.video###radix-_R_1ql6_
-rou.video##.my-2
-rou.video##.place-self-center
-rou.video##.border-gray-100
-rou.video###radix-_R_2l6_
-rou.video##div[style="display: flex; justify-content: center; text-align: center; width: 100%; z-index: 1030; pointer-events: none; bottom: 0px; position: fixed;"]
-rou.video###radix-_r_0_
-rou.video##div[style="position:relative;pointer-events:auto;max-height:18vh"]
-rou.video##a[href="/api/hop/AWqh8wCRw_qj0_D4APALZQJkXsUyqeAKoumtEpDFlxBt5CAVfvb3rR_Hpc4kMzYmEV_kPYdMQ-ay_Ip97cCc0Aw.JwE_JFz-9rKTd67Kx3SVkw"]
-rou.video##a[href="/api/hop/AWqh8wA4VF1cGZTbl0MTJQ2FDl7pyZS_tZda0TPf7HZlx-F7FUkMvcyUgf-S2wrOQPyFfDRr5M0AxF0-ru-WNiQ.wvhFPmXwyl8sBE0ept5WPA"]
-rou.video##a[href="/api/hop/AWqh8wBCgd-8rf1oAf1AtKTyxgCEBROYQylrXfZs646WLb8nnvvj8QuVouWg-toDCmB_WM2ICd-LmZL-Fg0rh9U.jXhTe2HxLJx5lJAtj3IbxQ"]
-rou.video##a[href="/api/hop/AWqh8wDrr_nJNjyVEUXwO4UCeQlmK5rZK4LZj05S6pOauctxXqNsskjLODRekWZNZdW8A-ABc-mUgD8XhkIeCNI.r0uJaEphxpwzKR2ymnagMQ"]
-rou.video##.xs0cs37
-rou.video##.xs0cs38
-rou.video##.xl1ctww
-rou.video##.xl1ctwv
-rou.video##a[href="/api/hop/AWqh8wDczcxjsvMZlNSFno5jKMDuoB5W9c4pgYamaCYyXtFmh5HAJT3pDyJhtW9EdZ7xB7oP3LY0jH_vTtCxtXg.pgdTES7YggrfDVAuw4cQHw"]
-rou.video##.x3lsb2m
-rou.video##.x3lsb2l
-rou.video##.x9ace6d
-rou.video##.grid-cols-2
 .com##div.relative.mx-auto.min-h-svh.max-w-screen-lg:first-child > div.main-container:nth-child(2) > div.mg\:right-5.fixed.bottom-1\/2.right-1.z-50.w-\[75px\].hover\:\!text-zinc-900.dark\:hover\:\!text-zinc-100.md\:w-\[150px\]:nth-child(3) > a > span.anticon.anticon-close-circle.absolute.right-0.top-\[-10px\].z-10.text-2xl:first-child > svg > path
 metruyenchu.com.vn###flyer
 rphang.boo###top > div.p-body:nth-child(3) > div.p-body-inner > div.samCodeUnit:nth-child(6) > div.samItem
 rphang.boo###footer > div.p-footer-inner
+! ---------- rou.video Blocking Rules ----------
+rou.video###radix-_R_1ql6_
+rou.video###radix-_r_0_
+rou.video###radix-_R_2l6_
+rou.video##.my-2
+rou.video##.place-self-center
+rou.video##.border-gray-100
+rou.video##a[href^="/api/hop/"]
+rou.video##.xs0cs37
+rou.video##.xs0cs38
+rou.video##.xl1ctww
+rou.video##.xl1ctwv
+rou.video##.x3lsb2m
+rou.video##.x3lsb2l
+rou.video##.x9ace6d
+rou.video##.grid-cols-2
+rou.video##div[style="display: flex; justify-content: center; text-align: center; width: 100%; z-index: 1030; pointer-events: none; bottom: 0px; position: fixed;"]
