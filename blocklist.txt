@@ -1,7 +1,7 @@
 ! Title: My Block List
 ! Description: My block list filter.
 ! Version: 0.0.4
-! TimeUpdated: 2026-09-1023:16+00:00
+! TimeUpdated: 2026-09-1023:46+00:00
 ! ---------- Generic Blocking Rules ----------
 /pagead.js$domain=adblock.turtlecute.org
 /widget/ads.
@@ -21,16 +21,14 @@ rphang.boo###footer > div.p-footer-inner
 rou.video###radix-_R_1ql6_
 rou.video###radix-_r_0_
 rou.video###radix-_R_2l6_
-rou.video##.my-2
-rou.video##.place-self-center
-rou.video##.border-gray-100
 rou.video##a[href^="/api/hop/"]
-rou.video##.xs0cs37
-rou.video##.xs0cs38
-rou.video##.xl1ctww
-rou.video##.xl1ctwv
-rou.video##.x3lsb2m
-rou.video##.x3lsb2l
-rou.video##.x9ace6d
+rou.video##.my-2
+rou.video##.py-4
+rou.video##.place-self-center
+rou.video##.self-center
+rou.video##.border-gray-100
 rou.video##.grid-cols-2
+rou.video##.xsnq1te
+rou.video##.xsnq1tf
 rou.video##div[style="display: flex; justify-content: center; text-align: center; width: 100%; z-index: 1030; pointer-events: none; bottom: 0px; position: fixed;"]
+rou.video##div[style="position:fixed;left:0;right:0;bottom:var(--bottom-nav, 0px);display:flex;justify-content:center;z-index:1030;pointer-events:none"]
