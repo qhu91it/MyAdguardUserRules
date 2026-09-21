@@ -1,13 +1,15 @@
 ! Title: My Block List
 ! Description: My block list filter.
 ! Version: 0.0.4
-! TimeUpdated: 2026-09-1023:46+00:00
-! ---------- Generic Blocking Rules ----------
+! TimeUpdated: 2026-09-2110:15+00:00
+! ---------- Adblock bypass Rules ----------
 /pagead.js$domain=adblock.turtlecute.org
 /widget/ads.
 @@|adblock.turtlecute.org^
 adblock.turtlecute.org##.adbox.banner_ads.adsbox
 adblock.turtlecute.org##.textads
+||ads.tiktok.com^
+! ---------- Generic Blocking Rules ----------
 anycodings.com###myblock > div.row.no-gutters.inner
 anycodings.com###myblock
 makeuseof.com##div:nth-child(11)
